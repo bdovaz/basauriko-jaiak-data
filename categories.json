@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Todas",
+    "matches": [
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Actividades de cuadrillas",
+    "matches": [
+      "cuadrillas",
+      "herriko taldeak",
+      "intercuadrillas",
+      "lonja"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Actividades txikis",
+    "matches": [
+      "espuma",
+      "infantil",
+      "niños",
+      "scalextric",
+      "txiki",
+      "txikis",
+      "txu-txu"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Actividades musicales",
+    "matches": [
+      "bailables",
+      "baile",
+      "bailes",
+      "batukada",
+      "concierto",
+      "danzas",
+      "dantza",
+      "diana",
+      "disko",
+      "dj",
+      "elektrotxaranga",
+      "erromeria",
+      "gimnasia",
+      "instrumentales",
+      "kalejira",
+      "música",
+      "musical",
+      "orkresta",
+      "pasacalles",
+      "sound",
+      "tamborrada",
+      "txistulari",
+      "txitxarrillo",
+      "verbena",
+      "zumba"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Actividades de calle",
+    "matches": [
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Actividades deportivas",
+    "matches": [
+      "acrobacias",
+      "ajedrez",
+      "bailables",
+      "baile",
+      "baloncesto",
+      "boleras",
+      "canchas",
+      "carrera",
+      "cronoescalada",
+      "danzas",
+      "dantza",
+      "educación vial",
+      "fútbol",
+      "futbolín",
+      "gimnasia",
+      "goitiberas",
+      "halterofilia",
+      "herri kirolak",
+      "juego oriental",
+      "kantaldi",
+      "lanzamiento",
+      "markelimbo",
+      "pañuelito",
+      "parchis",
+      "pelota mano",
+      "pelota rápida",
+      "rana popular",
+      "skate",
+      "spartan",
+      "tenis",
+      "tiro con arco"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Actividades gastronómicas",
+    "matches": [
+      "alubiada",
+      "chocolatada",
+      "chorizada",
+      "chorizo",
+      "comida",
+      "degustación",
+      "gildada",
+      "marmitako",
+      "mejillonada",
+      "merienda",
+      "morcillada",
+      "paella",
+      "pancetada",
+      "pintxo",
+      "sagardo",
+      "salchichada",
+      "sandwichada",
+      "sardinada",
+      "tortillas",
+      "txanpi",
+      "txistorrada"
+    ]
+  }
+]
