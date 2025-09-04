@@ -1,1 +1,0 @@
-# basauriko-jaiak-data
