@@ -9,6 +9,7 @@
     "program": {
         "start": "2025/10/11 21:30:00",
         "end": "2025/10/19 21:30:00",
+        "year": 2024,
         "showWarning": false
     }
 }
