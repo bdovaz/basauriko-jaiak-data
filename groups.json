@@ -1,98 +1,66 @@
 [
   {
     "id": 1,
-    "name": "Alaiak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Alaiak"
   },
   {
     "id": 2,
-    "name": "Aldatxa",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Aldatxa"
   },
   {
     "id": 3,
-    "name": "Basajaunak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Basajaunak"
   },
   {
     "id": 4,
-    "name": "Basatiak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Basatiak"
   },
   {
     "id": 5,
-    "name": "Edure",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Edure"
   },
   {
     "id": 6,
-    "name": "Hauspoak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Hauspoak"
   },
   {
     "id": 7,
-    "name": "Itsaslapurrak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Itsaslapurrak"
   },
   {
     "id": 8,
-    "name": "Laguntasuna",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Laguntasuna"
   },
   {
     "id": 9,
-    "name": "Mozkorak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Mozkorak"
   },
   {
     "id": 10,
-    "name": "Ogeta bat",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Ogeta bat"
   },
   {
     "id": 11,
-    "name": "Ontzak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Ontzak"
   },
   {
     "id": 12,
-    "name": "Txano gorritxu",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Txano gorritxu"
   },
   {
     "id": 13,
-    "name": "Txikerak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Txikerak"
   },
   {
     "id": 14,
-    "name": "Urbiko lagunak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Urbiko lagunak"
   },
   {
     "id": 15,
-    "name": "Zigorak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Zigorak"
   },
   {
     "id": 16,
-    "name": "Zoroak",
-    "latitude": 0,
-    "longitude": 0
+    "name": "Zoroak"
   }
 ]
