@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "name": "Actividades de cuadrillas",
+    "name": "Cuadrillas",
     "matches": [
       "cuadrillas",
       "herriko taldeak",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "name": "Actividades txikis",
+    "name": "Txikis",
     "matches": [
       "espuma",
       "infantil",
@@ -30,7 +30,7 @@
   },
   {
     "id": 4,
-    "name": "Actividades musicales",
+    "name": "Musicales",
     "matches": [
       "bailables",
       "baile",
@@ -61,13 +61,13 @@
   },
   {
     "id": 5,
-    "name": "Actividades de calle",
+    "name": "Calle",
     "matches": [
     ]
   },
   {
     "id": 6,
-    "name": "Actividades deportivas",
+    "name": "Deportivas",
     "matches": [
       "acrobacias",
       "ajedrez",
@@ -104,7 +104,7 @@
   },
   {
     "id": 7,
-    "name": "Actividades gastronómicas",
+    "name": "Gastronómicas",
     "matches": [
       "alubiada",
       "chocolatada",
